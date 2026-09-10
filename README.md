@@ -1,3 +1,4 @@
+
 # Task Manager
 
 A simple, clean, and responsive Task Management web application built with **React** and **Tailwind CSS**.
@@ -106,3 +107,7 @@ npm run build
 ## License
 
 MIT
+
+# TaskManager
+A simple and effiecient dashboard to manage and track tasks
+ 57e8fffdcedef8b9506025a9b358d118d26e8254
