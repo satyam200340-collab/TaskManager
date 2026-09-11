@@ -99,7 +99,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 text-gray-800">
-      <main className="py-6">
+      <main className="py-2 sm:py-6">
         <TaskList
           tasks={tasks}
           onOpenCreateModal={handleOpenCreateModal}
